@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Top10Crypto/static/css/main.2f26b04f.css",
+    "main.js": "/Top10Crypto/static/js/main.d745e8f3.js",
+    "index.html": "/Top10Crypto/index.html",
+    "main.2f26b04f.css.map": "/Top10Crypto/static/css/main.2f26b04f.css.map",
+    "main.d745e8f3.js.map": "/Top10Crypto/static/js/main.d745e8f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f26b04f.css",
+    "static/js/main.d745e8f3.js"
+  ]
+}
